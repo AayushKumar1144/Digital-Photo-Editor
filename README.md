@@ -22,4 +22,4 @@ It is a simple yet powerful digital photo editor built using Python, Tkinter, an
 - Invert  
 - Sharpen  
 - Emboss  
-- Smooth   
+- Smooth  
